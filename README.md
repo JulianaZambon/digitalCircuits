@@ -1,4 +1,4 @@
-# circuitos-digitais
+# Circuitos Digitais
 Trabalhos solicitados na disciplina de Circuitos Digitais (ci1068)
 
 Trabalho 01 - Implementação de um circuito somador/subtrator no simulador Logisim.
